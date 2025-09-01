@@ -8,4 +8,4 @@ const Header: React.FC = () => (
   </div>
 );
 
-export default Headers;
+export default Header;
