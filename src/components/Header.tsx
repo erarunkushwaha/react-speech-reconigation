@@ -6,6 +6,6 @@ const Header: React.FC = () => (
     <p className="text-gray-600">Speak naturally and watch your words appear</p>
     {/* added the comment */}
   </div>
-// );
+);
 
-export default Headers;
+export default Header;
