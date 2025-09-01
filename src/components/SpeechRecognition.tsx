@@ -196,7 +196,7 @@ const SpeechRecognition = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-green-50 flex flex-col items-center justify-center p-6">
       <div className="w-full max-w-4xl mx-auto space-y-8">
         {/* App header */}
-        <Header />
+        <Headerkk />
 
         {/* Microphone UI section */}
         <div className="flex flex-col items-center space-y-6">
