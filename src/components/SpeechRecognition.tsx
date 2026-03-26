@@ -60,7 +60,7 @@ const SpeechRecognition = () => {
    */
   const lineIdRef = useRef(0);
 
-  // TODO: Optimize this component --> SUGGESTION BY ORACLE ..
+  // TODO: Optimize this component --> SUGGESTION BY ORACLE
 
   /**
    * useEffect runs once on mount to initialize Speech Recognition
